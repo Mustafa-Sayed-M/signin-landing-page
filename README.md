@@ -2,7 +2,13 @@
 
 A simple and responsive sign-in landing page built with **HTML** and **CSS**. This project is designed for training purposes only, focusing on layout design and styling.
 
-## <a href="https://mustafa-sayed-m.github.io/signin-landing-page/">Live Demo</a>
+## 📸 Preview
+
+<a href='https://mustafa-sayed-m.github.io/signin-landing-page/' target='_blank'>
+    <img src='./preview.png' alt='Preview Image' />
+</a>
+
+`click on image to go live demo`
 
 ## 🖥️ Features
 - Fully responsive design 📱💻  
